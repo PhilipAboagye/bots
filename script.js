@@ -1,5 +1,5 @@
 // API URL
-const API_URL = 'https://i48zy8p9vl.execute-api.us-east-1.amazonaws.com/prod/issues';
+const API_URL = 'https://i48zy8p9vl.execute-api.us-east-1.amazonaws.com/prod/';
 
 // Fetch and display the issues
 async function fetchIssues() {
