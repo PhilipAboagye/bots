@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .card {
+    border-radius: 10px;
+  }
+  
+  .list-group-item {
+    border-radius: 5px;
+  }
+  
